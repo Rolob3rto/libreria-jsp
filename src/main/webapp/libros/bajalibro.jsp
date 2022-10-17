@@ -1,4 +1,4 @@
-<<%@ page language='java' contentType="text/html" %>
+<%@ page language='java' contentType="text/html" %>
 
 <%@page import="com.llvillar.libreria.model.Libro"%>
 <%@page import="java.util.List"%>
